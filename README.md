@@ -2,7 +2,7 @@
 
 🎓 Computer Science Student  
 💻 DSA Enthusiast | AI Learner  
-🚀 Preparing for Software Engineering Interviews  
+🚀 Motivated to Build Startups & Impactful Tech Products  
 
 ---
 
@@ -23,7 +23,7 @@
 - 🎯 Goal:
   - Become a strong Software Engineer
   - Build impactful AI projects
-  - Crack top tech interviews
+  - Create innovative startups
 
 ---
 
@@ -49,4 +49,4 @@
 ## 📈 Current Journey
 
 ```txt
-DSA → Development → AI Agents → Open Source → Software Engineering
+DSA → Development → AI Agents → Startups → Innovation
